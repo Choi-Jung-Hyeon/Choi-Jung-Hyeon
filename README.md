@@ -108,8 +108,8 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 
 <table width="100%">
 <tr>
-<th width="40%" align="left">Affiliation</th>
-<th width="60%" align="left">Focus</th>
+<th width="40%" align="left">Affiliation<img width="800" height="0" alt=""></th>
+<th width="60%" align="left">Focus<img width="1200" height="0" alt=""></th>
 </tr>
 <tr>
 <td width="40%"><a href="https://github.com/SamsungSecurities-YoungCreator-15th-4"><b>Samsung Securities YoungCreator 15th</b></a></td>

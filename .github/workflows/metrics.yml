@@ -20,7 +20,8 @@ jobs:
           user: Choi-Jung-Hyeon
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
+          config_display: large
           config_timezone: Asia/Seoul
           plugin_languages: yes
           plugin_languages_ignored: >-
