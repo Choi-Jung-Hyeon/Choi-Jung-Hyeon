@@ -21,7 +21,7 @@
 
 > **"Technology should make everyday life more convenient and safe."**
 
-CS student at **SKKU** & **full-cycle developer** — I ship products across **Plan · Design · Frontend · Backend · Infra · AI**, not confined to one role.
+CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · Design · Frontend · Backend · Infra · AI**, not confined to one role.
 
 - **Samsung Securities YoungCreator 15th** — Finance × AI (RAG, LLM Agents, MCP server)
 - **SKKUDING** — Backend & Frontend for [Codedang](https://github.com/skkuding/codedang), SKKU's Online Judge
