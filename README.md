@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<a href="mailto:fourmi103@g.skku.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/choijunghyeon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://blog.naver.com/fourmi103"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="mailto:fourmi103@g.skku.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/choijunghyeon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white"/></a>
+<a href="https://blog.naver.com/fourmi103"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Choi-Jung-Hyeon&style=flat-square&color=58A6FF&label=Profile+views"/>
 
 </div>
@@ -53,33 +53,31 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 
 ## 🧰 Tech Stack
 
-<br/>
-
 <div align="center">
 
 **Languages**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **Frontend**
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge"/> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **Backend & Database**
 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **AI / ML**
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLM_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **Infra & Tools**
 
@@ -121,13 +119,18 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 
 ## 🔬 Organizations & Research
 
-| Affiliation | Focus |
-|:------------|:------|
-| [**Samsung Securities YoungCreator 15th**](https://github.com/SamsungSecurities-YoungCreator-15th-4) | Finance × AI — RAG, LLM Agents, MCP (3 projects) |
-| [**@skkuding**](https://github.com/skkuding) | Codedang BE/FE · code-review culture · infra study |
-| [**2026Graduation-Work**](https://github.com/2026Graduation-Work) | Behavioral-finance stock-prediction platform |
-| **ELL Lab (LG AI Research)** — Prof. Hankook Lee | Training-free image detection (Team Lead) · CV · PyTorch |
-| **NLP Lab** — Prof. Youngjoong Ko | RAG · LLM · Topic Modeling · RL/DPO/GRPO seminars |
+<table width="100%">
+<thead>
+<tr><th align="left" width="42%">Affiliation</th><th align="left" width="58%">Focus</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://github.com/SamsungSecurities-YoungCreator-15th-4"><b>Samsung Securities YoungCreator 15th</b></a></td><td>Finance × AI — RAG, LLM Agents, MCP (3 projects)</td></tr>
+<tr><td><a href="https://github.com/skkuding"><b>@skkuding</b></a></td><td>Codedang BE/FE · code-review culture · infra study</td></tr>
+<tr><td><a href="https://github.com/2026Graduation-Work"><b>2026Graduation-Work</b></a></td><td>Behavioral-finance stock-prediction platform</td></tr>
+<tr><td><b>ELL Lab (LG AI Research)</b> — Prof. Hankook Lee</td><td>Training-free image detection (Team Lead) · CV · PyTorch</td></tr>
+<tr><td><b>NLP Lab</b> — Prof. Youngjoong Ko</td><td>RAG · LLM · Topic Modeling · RL/DPO/GRPO seminars</td></tr>
+</tbody>
+</table>
 
 <br/>
 
