@@ -14,7 +14,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 언어 비율 카드 (컴팩트, README에서 적당한 배율로 표시)
+      - uses: actions/checkout@v4
+
+      # 언어 비율 카드 (480px 원본, README에서 전체 너비로 확대 표시)
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -22,6 +24,7 @@ jobs:
           filename: github-languages.svg
           template: classic
           base: ""
+          output_action: none
           config_timezone: Asia/Seoul
           plugin_languages: yes
           plugin_languages_ignored: >-
@@ -29,7 +32,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
 
-      # 3D 잔디 캘린더 (전체 너비)
+      # 3D 잔디 캘린더 (480px 원본 — 캘린더가 카드 전체 너비를 차지)
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -37,7 +40,19 @@ jobs:
           filename: github-metrics.svg
           template: classic
           base: ""
-          config_display: large
+          output_action: none
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+      # README에서 1.83배 확대 표시되므로 폰트를 0.61배로 줄여
+      # 실질 글씨 크기를 본문과 비슷하게 절충 (두 카드 동일 크기)
+      - name: Adjust font size and commit
+        run: |
+          sudo mv /metrics_renders/github-languages.svg /metrics_renders/github-metrics.svg .
+          perl -0pi -e 's/font-size:([0-9.]+)px/"font-size:".sprintf("%.2f",$1*0.61)."px"/ge' github-languages.svg github-metrics.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-languages.svg github-metrics.svg
+          git commit -m "chore: update metrics [skip ci]" || exit 0
+          git push
