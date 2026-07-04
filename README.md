@@ -67,6 +67,18 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Choi-Jung-Hyeon&theme=github-dark-blue&hide_border=true&background=0d1117&card_width=880" alt="GitHub streak" width="100%"/>
+
+<img src="./github-languages.svg" alt="Most used languages" width="100%"/>
+
+</div>
+
+<br/>
+
 ## 📌 Featured Projects
 
 | Project | Description | Stack | Role |
@@ -83,18 +95,6 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 | [**Hyscape Automation**](https://github.com/Choi-Jung-Hyeon/2025F_HYSCAPE) | Air-gapped NAS + LLM data-automation pipeline | `Python` `AWS` | Intern · BE/Infra |
 | [**AI Agent**](https://github.com/Choi-Jung-Hyeon/2026W_AGENT) | LangChain notice-recommender chatbot | `Python` `LangChain` | Plan · Dev |
 | [**ProSeed**](https://github.com/skkuding/proseed) | Side-project & portfolio management web app | `TypeScript` | Backend |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Choi-Jung-Hyeon&theme=github-dark-blue&hide_border=true&background=0d1117&card_width=880" alt="GitHub streak" width="100%"/>
-
-<img src="./github-languages.svg" alt="Most used languages" width="100%"/>
-
-</div>
 
 <br/>
 
