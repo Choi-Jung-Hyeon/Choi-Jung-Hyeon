@@ -26,8 +26,10 @@ jobs:
           base: ""
           config_timezone: Asia/Seoul
           extras_css: |
-            h2 { font-size: 9.8px !important }
-            h3, svg { font-size: 8.5px !important }
+            h2, h3, svg { font-size: 8.5px !important }
+            h2 svg { width: 12px; height: 12px }
+            .field svg { width: 10px; height: 10px }
+            .field { margin-bottom: 0 !important }
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, jupyter-notebook, jupyter notebook, hcl, assembly, makefile

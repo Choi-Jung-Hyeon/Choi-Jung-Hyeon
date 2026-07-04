@@ -21,35 +21,19 @@
 
 CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · Design · Frontend · Backend · Infra · AI**, not confined to one role.
 
-- **Samsung Securities YoungCreator 15th** — Finance × AI (RAG, LLM Agents, MCP server)
-- **SKKUDING** — Backend & Frontend for [Codedang](https://github.com/skkuding/codedang), SKKU's Online Judge
-- **LG AI Research (Team Lead)** — training-free AI-image detection
-- **SKKU NLP Lab** — RAG · LLM pipelines, RL/DPO seminars
+- [**Samsung Securities YoungCreator 15th**](https://github.com/SamsungSecurities-YoungCreator-15th-4) — Finance × AI (RAG, LLM Agents, MCP server)
+- [**SKKUDING**](https://github.com/skkuding) — Backend & Frontend for [Codedang](https://github.com/skkuding/codedang), SKKU's Online Judge
+- **ELL Lab (LG AI Research)** — Prof. Hankook Lee · training-free AI-image detection (Team Lead)
+- **SKKU NLP Lab** — Prof. Youngjoong Ko · RAG · LLM pipelines · RL/DPO/GRPO seminars
 - **Hyscape Intern** — air-gapped NAS + LLM automation pipeline
-- **Capstone** — behavioral-finance [stock-prediction platform](https://github.com/2026Graduation-Work/Stock_Prediction_v2)
+- [**Capstone**](https://github.com/2026Graduation-Work) — behavioral-finance [stock-prediction platform](https://github.com/2026Graduation-Work/Stock_Prediction_v2)
 - **English** — OPIc IH, comfortable interviewing in English
 
-<br/>
-
-## 🔄 Full Development Lifecycle
-
-<div align="center">
-
-![Plan](https://img.shields.io/badge/1._PLAN-User_Research_·_Specs-6E5494?style=for-the-badge)
-![Design](https://img.shields.io/badge/2._DESIGN-Figma_·_UI_UX-F24E1E?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/3._FRONTEND-React_·_Next.js-20232A?style=for-the-badge&logo=react)
-
-![Backend](https://img.shields.io/badge/4._BACKEND-NestJS_·_Prisma-E0234E?style=for-the-badge)
-![AI](https://img.shields.io/badge/5._AI_ML-PyTorch_·_LLM-EE4C2C?style=for-the-badge)
-![Infra](https://img.shields.io/badge/6._INFRA-Docker_·_NAS-2496ED?style=for-the-badge)
-
-</div>
-
-> Backend is my main position, but I understand every stage well enough to align teams and remove bottlenecks proactively.
+**How I work** — plan first · bridge between roles · failure is growth data · solution-oriented reviews
 
 <br/>
 
-## 🧰 Tech Stack
+## 🔄 Full-Cycle Tech Stack
 
 <div align="center">
 
@@ -57,23 +41,29 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-**Frontend**
+**1 · Plan & Design**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge"/> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/User_Research_·_Specs-6E5494?style=for-the-badge"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-**Backend & Database**
+**2 · Frontend**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge"/> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+
+**3 · Backend & Database**
 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-**AI / ML**
+**4 · AI / ML**
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLM_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-**Infra & Tools**
+**5 · Infra & Tools**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 </div>
+
+> Backend is my main position, but I understand every stage well enough to align teams and remove bottlenecks proactively.
 
 <br/>
 
@@ -105,46 +95,6 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 <img src="./github-languages.svg" alt="Most used languages" width="100%"/>
 
 </div>
-
-<br/>
-
-## 🔬 Organizations & Research
-
-<table width="100%">
-<tr>
-<th width="40%" align="left">Affiliation<img width="800" height="0" alt=""></th>
-<th width="60%" align="left">Focus<img width="1200" height="0" alt=""></th>
-</tr>
-<tr>
-<td width="40%"><a href="https://github.com/SamsungSecurities-YoungCreator-15th-4"><b>Samsung Securities YoungCreator 15th</b></a></td>
-<td width="60%">Finance × AI — RAG, LLM Agents, MCP (3 projects)</td>
-</tr>
-<tr>
-<td width="40%"><a href="https://github.com/skkuding"><b>@skkuding</b></a></td>
-<td width="60%">Codedang BE/FE · code-review culture · infra study</td>
-</tr>
-<tr>
-<td width="40%"><a href="https://github.com/2026Graduation-Work"><b>2026Graduation-Work</b></a></td>
-<td width="60%">Behavioral-finance stock-prediction platform</td>
-</tr>
-<tr>
-<td width="40%"><b>ELL Lab (LG AI Research)</b> — Prof. Hankook Lee</td>
-<td width="60%">Training-free image detection (Team Lead) · CV · PyTorch</td>
-</tr>
-<tr>
-<td width="40%"><b>NLP Lab</b> — Prof. Youngjoong Ko</td>
-<td width="60%">RAG · LLM · Topic Modeling · RL/DPO/GRPO seminars</td>
-</tr>
-</table>
-
-<br/>
-
-## 💭 How I Work
-
-- **Plan first** — document user-centered requirements before writing code
-- **Bridge between roles** — align API contracts, remove bottlenecks across teams
-- **Failure is growth data** — deep focus over frustration on hard bugs
-- **Solution-oriented reviews** — propose actionable alternatives, not just critiques
 
 <br/>
 
