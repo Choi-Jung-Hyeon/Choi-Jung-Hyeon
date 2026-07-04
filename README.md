@@ -99,8 +99,11 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./github-languages.svg" alt="Most used languages" width="100%"/>
-  <img src="./github-metrics.svg" alt="Contributions calendar" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=Choi-Jung-Hyeon&theme=github-dark-blue&hide_border=true&background=0d1117&card_width=880" alt="GitHub streak" width="100%"/>
+
+<img src="./github-languages.svg" alt="Most used languages" width="100%"/>
+
 </div>
 
 <br/>
