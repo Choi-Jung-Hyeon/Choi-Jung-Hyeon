@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Choi%20Jung%20Hyeon&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Cycle%20Software%20Engineer%20%7C%20Backend%20and%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Choi%20Jung%20Hyeon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Cycle%20Software%20Engineer%20%7C%20Backend%20and%20AI&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Choi-Jung-Hyeon">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Toward+Peaceful%2C+Human-Centered+AI;Plan+to+Design+to+Dev+to+Infra" alt="Typing SVG" />
 </a>
-
-<br/><br/>
 
 <a href="mailto:fourmi103@g.skku.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/choijunghyeon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white"/></a>
@@ -101,10 +99,7 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Choi-Jung-Hyeon&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-Jung-Hyeon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=1800" height="165" alt="top langs"/>
-
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%"/>
 </div>
 
 <br/>
