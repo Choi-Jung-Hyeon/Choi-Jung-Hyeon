@@ -22,7 +22,7 @@
 CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · Design · Frontend · Backend · Infra · AI**, not confined to one role.
 
 - [**Samsung Securities YoungCreator 15th**](https://github.com/SamsungSecurities-YoungCreator-15th-4) — Finance × AI — LangGraph agents, RAG, MCP, after-tax portfolio engine
-- **Samsung Securities AI Solution OJT** — Korean PII test set & evaluation harness for OpenAI Privacy Filter (fully synthetic data)
+- [**Samsung Securities AI Solution OJT**](https://github.com/Choi-Jung-Hyeon/2026S_AISol) — Korean PII test set & evaluation harness for OpenAI Privacy Filter (fully synthetic data)
 - [**SKKUDING**](https://github.com/skkuding) — Backend & Frontend for [Codedang](https://github.com/skkuding/codedang), SKKU's Online Judge
 - **ELL Lab (LG AI Research)** — Prof. Hankook Lee · training-free AI-image detection (Team Lead)
 - **SKKU NLP Lab** — Prof. Youngjoong Ko · RAG · LLM pipelines · RL/DPO/GRPO seminars
