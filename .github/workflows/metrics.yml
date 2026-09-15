@@ -25,9 +25,6 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Seoul
-          # 기본값(owner)은 개인 레포만 집계해 조직 작업이 통째로 빠진다.
-          # SamsungSecurities-YoungCreator-15th-4 / 2026Graduation-Work 포함 (모두 public)
-          repositories_affiliations: owner, collaborator, organization_member
           extras_css: |
             h2, h3, svg { font-size: 8.5px !important }
             h2 svg { width: 12px; height: 12px }
