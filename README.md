@@ -21,7 +21,8 @@
 
 CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · Design · Frontend · Backend · Infra · AI**, not confined to one role.
 
-- [**Samsung Securities YoungCreator 15th**](https://github.com/SamsungSecurities-YoungCreator-15th-4) — Finance × AI (RAG, LLM Agents, MCP server)
+- [**Samsung Securities YoungCreator 15th**](https://github.com/SamsungSecurities-YoungCreator-15th-4) — Finance × AI — LangGraph agents, RAG, MCP, after-tax portfolio engine
+- **Samsung Securities AI Solution OJT** — Korean PII test set & evaluation harness for OpenAI Privacy Filter (fully synthetic data)
 - [**SKKUDING**](https://github.com/skkuding) — Backend & Frontend for [Codedang](https://github.com/skkuding/codedang), SKKU's Online Judge
 - **ELL Lab (LG AI Research)** — Prof. Hankook Lee · training-free AI-image detection (Team Lead)
 - **SKKU NLP Lab** — Prof. Youngjoong Ko · RAG · LLM pipelines · RL/DPO/GRPO seminars
@@ -83,18 +84,27 @@ CSE at **SKKU** & **full-cycle developer** — I ship products across **Plan · 
 
 | Project | Description | Stack | Role |
 |---------|-------------|-------|------|
+| [**S_Hub**](https://github.com/SamsungSecurities-YoungCreator-15th-4/S_Hub) | Final capstone — PB dashboard and risk engine unified on one IPS 7-field (RRTTLLU) contract | `Next.js` `FastAPI` `LangGraph` `Supabase` | Samsung Securities · Full-Cycle |
+| [**Stock Prediction**](https://github.com/2026Graduation-Work/Stock_Prediction_v2) | Behavioral-finance forecasting with white-box (explainable) models + 8-axis investor profiling — [live demo](https://stock-prediction-v2-chi.vercel.app) | `Next.js` `Python` `Supabase` `pgvector` | Capstone · Full-Cycle |
+| [**S.upervisor**](https://github.com/SamsungSecurities-YoungCreator-15th-4/VVIP_PB_Advisor) | Consultation transcript → structured IPS → after-tax portfolio proposal in 3 minutes | `Next.js` `FastAPI` `Supabase` | Samsung Securities |
+| [**S.ymphony**](https://github.com/SamsungSecurities-YoungCreator-15th-4/Orchestration) | Reproducible & explainable risk-report engine — LangGraph, HITL gate, evidence bundle | `Python` `LangGraph` `Streamlit` | Samsung Securities |
+| [**S.ecret**](https://github.com/SamsungSecurities-YoungCreator-15th-4/OpenCode_MCP) | Compliance pre-check assistant for air-gapped finance networks — local-only, zero external LLM calls, hash-chained audit log | `MCP` `Local LLM` `Chroma` `BM25` | Samsung Securities |
 | [**Codedang**](https://github.com/skkuding/codedang) | SKKU Online Judge — resolved N+1 bottlenecks, type-safe REST API | `NestJS` `Prisma` `MySQL` | BE / FE |
-| [**Stock Prediction**](https://github.com/2026Graduation-Work/Stock_Prediction_v2) | Behavioral-finance stock forecasting + news-sentiment dashboard | `Python` `NLP` | Capstone · Full-Cycle |
 | [**LunChat**](https://github.com/skkuding/LunChat) | Campus free-time matching platform (**Hackathon Grand Prize**) | `Next.js` `Zustand` | Plan · Design · FE Lead |
-| [**NodeSpark**](https://github.com/Choi-Jung-Hyeon/2025F_HACKATHON) | LLM-powered dynamic mind-map, infinite-node rendering | `React` `LLM API` | Plan · FE Lead |
 | [**AI Image Detection**](https://github.com/Choi-Jung-Hyeon/2025S_IACP) | Training-free detection w/ LG AI Research — no retraining cost | `Python` `PyTorch` | Team Lead |
-| [**Deepfake Detection**](https://github.com/Choi-Jung-Hyeon/2025F_DFAI) | NFS competition — mixed clean/degraded dataset, preprocessing | `Python` `PyTorch` | Data Lead |
-| [**VVIP PB Advisor**](https://github.com/SamsungSecurities-YoungCreator-15th-4/VVIP_PB_Advisor) | PB Insight — VVIP asset-advisor hub | `Python` | Samsung Securities |
-| [**Orchestration**](https://github.com/SamsungSecurities-YoungCreator-15th-4/Orchestration) | Reproducible & explainable risk-report engine | `Python` | Samsung Securities |
-| [**OpenCode MCP**](https://github.com/SamsungSecurities-YoungCreator-15th-4/OpenCode_MCP) | Model Context Protocol server for OpenCode | `Python` `MCP` | Samsung Securities |
 | [**Hyscape Automation**](https://github.com/Choi-Jung-Hyeon/2025F_HYSCAPE) | Air-gapped NAS + LLM data-automation pipeline | `Python` `AWS` | Intern · BE/Infra |
-| [**AI Agent**](https://github.com/Choi-Jung-Hyeon/2026W_AGENT) | LangChain notice-recommender chatbot | `Python` `LangChain` | Plan · Dev |
+| [**NodeSpark**](https://github.com/Choi-Jung-Hyeon/2025F_HACKATHON) | LLM-powered dynamic mind-map, infinite-node rendering | `React` `LLM API` | Plan · FE Lead |
+| [**Deepfake Detection**](https://github.com/Choi-Jung-Hyeon/2025F_DFAI) | NFS competition — mixed clean/degraded dataset, preprocessing | `Python` `PyTorch` | Data Lead |
 | [**ProSeed**](https://github.com/skkuding/proseed) | Side-project & portfolio management web app | `TypeScript` | Backend |
+
+<br/>
+
+## 🧪 Coursework & Experiments
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**PackCheck**](https://github.com/Choi-Jung-Hyeon/2026S_Sapiens) | Travel packing checklist web app — shipped to [GitHub Pages](https://choi-jung-hyeon.github.io/2026S_Sapiens/) | `Vanilla JS` |
+| [**AI Agent**](https://github.com/Choi-Jung-Hyeon/2026W_AGENT) | LangChain notice-recommender chatbot | `Python` `LangChain` |
 
 <br/>
 
