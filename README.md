@@ -17,7 +17,7 @@
 
 > **"Technology should make everyday life more convenient and safe."**
 
-CSE at **SKKU** & **full-cycle developer** — backend is my main position, and I ship across **Plan · Design · Frontend · Backend · Infra · AI**.
+CSE at **SKKU** & **full-cycle developer** — backend is my main position, and I ship across **Plan · Design · Frontend · Backend · Infra · AI**.<br/>
 **English** — OPIc IH, comfortable interviewing in English.
 
 <br/>
