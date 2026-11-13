@@ -35,7 +35,7 @@ CSE at **SKKU** & **full-cycle developer** — backend is my main position, and 
 | [**LunChat**](https://github.com/skkuding/LunChat) | Campus free-time matching platform (**Hackathon Grand Prize**) | `Next.js` `Zustand` | Plan · Design · FE Lead |
 
 <details>
-<summary><b>More projects (13)</b></summary>
+<summary><b>More projects (14)</b></summary>
 <br/>
 
 | Project | What it does | Stack | Role |
@@ -46,6 +46,7 @@ CSE at **SKKU** & **full-cycle developer** — backend is my main position, and 
 | [**PII Eval Harness**](https://github.com/Choi-Jung-Hyeon/2026S_AISol) | Korean PII test set & evaluation harness for OpenAI Privacy Filter (fully synthetic data) | `Python` | Samsung Securities OJT |
 | [**JHarvis**](https://github.com/Choi-Jung-Hyeon/JHarvis) | Starter kit for new projects — agent rules, Claude Code hooks, CI, and GitHub security settings in two commands | `Shell` `Python` `GitHub Actions` | Solo |
 | [**AI Hackathon Kit**](https://github.com/Choi-Jung-Hyeon/2026F_Hynix) | Work kit for the SK hynix AI Hackathon preliminary — Codex CLI rules, skills, and a stdlib-only data summarizer | `Python` `Shell` | Solo |
+| **Sony DSC-T2 RE** (private) | Static analysis of a 2007 Sony Cyber-shot's internal memory — photo-DB binary format, Kinoma XS bytecode, and a USB worm found on it | `Reverse Engineering` `Static Analysis` | Solo |
 | [**AI Image Detection**](https://github.com/Choi-Jung-Hyeon/2025S_IACP) | Training-free detection w/ LG AI Research — no retraining cost | `Python` `PyTorch` | Team Lead |
 | [**Hyscape Automation**](https://github.com/Choi-Jung-Hyeon/2025F_HYSCAPE) | Air-gapped NAS + LLM data-automation pipeline | `Python` `AWS` | Intern · BE/Infra |
 | [**NodeSpark**](https://github.com/Choi-Jung-Hyeon/2025F_HACKATHON) | LLM-powered dynamic mind-map, infinite-node rendering | `React` `LLM API` | Plan · FE Lead |
@@ -55,6 +56,23 @@ CSE at **SKKU** & **full-cycle developer** — backend is my main position, and 
 | [**AI Agent**](https://github.com/Choi-Jung-Hyeon/2026W_AGENT) | LangChain notice-recommender chatbot | `Python` `LangChain` | Coursework |
 
 </details>
+
+<br/>
+
+## 🌱 Open Source
+
+Bug fixes to open-source libraries — each with a reproduction and tests.
+
+| Project | What I fixed | PR |
+|---------|--------------|----|
+| [**toss/react-simplikit**](https://github.com/toss/react-simplikit) | `SwitchCase` matched keys inherited from `Object.prototype` (`value="toString"` rendered `[object Undefined]`) — now matches own keys only | [<img src="https://img.shields.io/github/pulls/detail/state/toss/react-simplikit/591?style=flat-square&label=%23591" alt="#591"/>](https://github.com/toss/react-simplikit/pull/591) |
+| | `useList` · `useSet` · `useMap` threw on the first render for BigInt or circular initial values — removed the per-render `JSON.stringify` comparison | [<img src="https://img.shields.io/github/pulls/detail/state/toss/react-simplikit/592?style=flat-square&label=%23592" alt="#592"/>](https://github.com/toss/react-simplikit/pull/592) |
+| | Reported an SSR hydration mismatch in 5 hooks ([#597](https://github.com/toss/react-simplikit/issues/597), confirmed by the maintainer) — fix plus a server-render-then-hydrate test helper | [<img src="https://img.shields.io/github/pulls/detail/state/toss/react-simplikit/599?style=flat-square&label=%23599" alt="#599"/>](https://github.com/toss/react-simplikit/pull/599) |
+| | Reported `useScrollDirection` keeping a stale position when scrolling stops inside the throttle window ([#595](https://github.com/toss/react-simplikit/issues/595), confirmed by the maintainer) — re-check when the timer ends | [<img src="https://img.shields.io/github/pulls/detail/state/toss/react-simplikit/598?style=flat-square&label=%23598" alt="#598"/>](https://github.com/toss/react-simplikit/pull/598) |
+| [**toss/es-hangul**](https://github.com/toss/es-hangul) | `removeLastCharacter` cut an emoji in half (returned a lone surrogate); `josa.pick` disagreed with `josa` on acronyms like `URL` | [<img src="https://img.shields.io/github/pulls/detail/state/toss/es-hangul/412?style=flat-square&label=%23412" alt="#412"/>](https://github.com/toss/es-hangul/pull/412) [<img src="https://img.shields.io/github/pulls/detail/state/toss/es-hangul/413?style=flat-square&label=%23413" alt="#413"/>](https://github.com/toss/es-hangul/pull/413) |
+| [**sharebook-kr/pykrx**](https://github.com/sharebook-kr/pykrx) | KRX market-data library used by Take a Look — `datetime.date` arguments and mixed positional/keyword dates raised `TypeError` | [<img src="https://img.shields.io/github/pulls/detail/state/sharebook-kr/pykrx/300?style=flat-square&label=%23300" alt="#300"/>](https://github.com/sharebook-kr/pykrx/pull/300) |
+
+[All my open-source pull requests →](https://github.com/search?type=pullrequests&q=is%3Apr+author%3AChoi-Jung-Hyeon+-user%3AChoi-Jung-Hyeon+-org%3A2026Graduation-Work+-org%3AHYUNDAI-motor-group-contest+-org%3ASamsungSecurities-YoungCreator-15th-4+-org%3Askkuding)
 
 <br/>
 
