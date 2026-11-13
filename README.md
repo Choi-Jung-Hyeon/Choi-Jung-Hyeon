@@ -61,7 +61,7 @@ CSE at **SKKU** & **full-cycle developer** — backend is my main position, and 
 
 ## 🌱 Open Source
 
-Bug fixes to open-source libraries — each with a reproduction and tests.
+Bug fixes in the domains I care about — React, Korean text processing, and Korean market data — each with a reproduction and tests.
 
 | Project | What I fixed | PR |
 |---------|--------------|----|
