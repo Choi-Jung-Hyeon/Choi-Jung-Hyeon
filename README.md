@@ -78,6 +78,8 @@ Bug fixes in the domains I care about — backend frameworks, React, Korean text
 
 ## 💼 Experience
 
+**How I work** — plan first · bridge between roles · failure is growth data · solution-oriented reviews
+
 | Year | Where | What |
 |------|-------|------|
 | 2026 | [**Samsung Securities YoungCreator 15th**](https://github.com/SamsungSecurities-YoungCreator-15th-4) | Finance × AI — LangGraph agents, RAG, MCP, after-tax portfolio engine |
@@ -89,8 +91,6 @@ Bug fixes in the domains I care about — backend frameworks, React, Korean text
 | 2025 | **ELL Lab (LG AI Research)** | Prof. Hankook Lee · training-free AI-image detection (Team Lead) |
 | 2025 | **SKKU NLP Lab** | Prof. Youngjoong Ko · RAG · LLM pipelines · RL/DPO/GRPO seminars |
 | 2025 | **Hyscape Intern** | Air-gapped NAS + LLM automation pipeline |
-
-**How I work** — plan first · bridge between roles · failure is growth data · solution-oriented reviews
 
 <br/>
 
