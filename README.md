@@ -28,31 +28,31 @@ CSE at **SKKU** & **full-cycle developer** — backend is my main position, and 
 
 | Project | What it does | Stack | Role |
 |---------|--------------|-------|------|
-| [**Take a Look**](https://github.com/2026Graduation-Work/take_a_look) · [demo](https://takealook-skku.vercel.app) | Decision-support service for beginner investors — 8-axis investor profiling orders white-box (rule-based) evidence per user; covers 912 KOSPI stocks · v1.1.0 | `Next.js` `Python` `Supabase` | Capstone · Full-Cycle |
-| [**S_Hub**](https://github.com/SamsungSecurities-YoungCreator-15th-4/S_Hub) · [demo](https://s-hub-ten.vercel.app/) | Final capstone — PB dashboard and risk engine unified on one IPS 7-field (RRTTLLU) contract | `Next.js` `FastAPI` `LangGraph` `Supabase` | Samsung Securities · Full-Cycle |
+| [**Take a Look**](https://github.com/2026Graduation-Work/take_a_look) · [live](https://takealook-skku.vercel.app) | Decision-support service for beginner investors — 8-axis investor profiling orders white-box (rule-based) evidence per user; covers 912 KOSPI stocks · v1.1.0 | `Next.js` `Python` `Supabase` | Capstone · Full-Cycle |
+| [**S_Hub**](https://github.com/SamsungSecurities-YoungCreator-15th-4/S_Hub) · [live](https://s-hub-ten.vercel.app/) | Final capstone — PB dashboard and risk engine unified on one IPS 7-field (RRTTLLU) contract | `Next.js` `FastAPI` `LangGraph` `Supabase` | Samsung Securities · Full-Cycle |
 | [**Codedang**](https://github.com/skkuding/codedang) | SKKU Online Judge — resolved N+1 bottlenecks, type-safe REST API | `NestJS` `Prisma` `MySQL` | BE / FE |
-| [**MyVision**](https://github.com/HYUNDAI-motor-group-contest/myvision) | In-vehicle app for Pleos Connect — recognizes the driver, restores seat & climate, voice-first speed-camera alerts; deterministic rules, 34 unit tests | `Kotlin` `Android` `Pleos SDK` | Hyundai Motor Group Contest · Solo |
-| [**LunChat**](https://github.com/skkuding/LunChat) | Campus free-time matching platform (**Hackathon Grand Prize**) | `Next.js` `Zustand` | Plan · Design · FE Lead |
+| [**S.ecret**](https://github.com/SamsungSecurities-YoungCreator-15th-4/OpenCode_MCP) | Compliance pre-check assistant for air-gapped finance networks — local-only, zero external LLM calls, hash-chained audit log | `MCP` `Local LLM` `Chroma` `BM25` | Samsung Securities |
+| [**JHarvis**](https://github.com/Choi-Jung-Hyeon/JHarvis) | Starter kit for new projects — agent rules, Claude Code hooks, CI, and GitHub security settings in two commands | `Shell` `Python` `GitHub Actions` | Solo |
+| [**ProSeed**](https://github.com/skkuding/proseed) | SKKUDING side project for managing side projects & portfolios — built the growth-record API: versioned records, feedback adoption with ticket rewards in one transaction, S3 presigned uploads | `NestJS` `Prisma` `PostgreSQL` | SKKUDING · Backend |
 
 <details>
-<summary><b>More projects (14)</b></summary>
+<summary><b>More projects (13)</b></summary>
 <br/>
 
 | Project | What it does | Stack | Role |
 |---------|--------------|-------|------|
-| [**S.upervisor**](https://github.com/SamsungSecurities-YoungCreator-15th-4/VVIP_PB_Advisor) · [demo](https://vvip-pb-advisor.vercel.app) | Consultation transcript → structured IPS → after-tax portfolio proposal in 3 minutes | `Next.js` `FastAPI` `Supabase` | Samsung Securities |
-| [**S.ymphony**](https://github.com/SamsungSecurities-YoungCreator-15th-4/Orchestration) · [demo](https://s-ymphony.streamlit.app/) | Reproducible & explainable risk-report engine — LangGraph, HITL gate, evidence bundle | `Python` `LangGraph` `Streamlit` | Samsung Securities |
-| [**S.ecret**](https://github.com/SamsungSecurities-YoungCreator-15th-4/OpenCode_MCP) | Compliance pre-check assistant for air-gapped finance networks — local-only, zero external LLM calls, hash-chained audit log | `MCP` `Local LLM` `Chroma` `BM25` | Samsung Securities |
+| [**MyVision**](https://github.com/HYUNDAI-motor-group-contest/myvision) | In-vehicle app for Pleos Connect — recognizes the driver, restores seat & climate, voice-first speed-camera alerts; deterministic rules, 34 unit tests | `Kotlin` `Android` `Pleos SDK` | Hyundai Motor Group Contest · Solo |
+| [**LunChat**](https://github.com/skkuding/LunChat) | Campus free-time matching platform (**Hackathon Grand Prize**) | `Next.js` `Zustand` | Plan · Design · FE Lead |
+| [**S.upervisor**](https://github.com/SamsungSecurities-YoungCreator-15th-4/VVIP_PB_Advisor) · [live](https://vvip-pb-advisor.vercel.app) | Consultation transcript → structured IPS → after-tax portfolio proposal in 3 minutes | `Next.js` `FastAPI` `Supabase` | Samsung Securities |
+| [**S.ymphony**](https://github.com/SamsungSecurities-YoungCreator-15th-4/Orchestration) · [live](https://s-ymphony.streamlit.app/) | Reproducible & explainable risk-report engine — LangGraph, HITL gate, evidence bundle | `Python` `LangGraph` `Streamlit` | Samsung Securities |
 | [**PII Eval Harness**](https://github.com/Choi-Jung-Hyeon/2026S_AISol) | Korean PII test set & evaluation harness for OpenAI Privacy Filter (fully synthetic data) | `Python` | Samsung Securities OJT |
-| [**JHarvis**](https://github.com/Choi-Jung-Hyeon/JHarvis) | Starter kit for new projects — agent rules, Claude Code hooks, CI, and GitHub security settings in two commands | `Shell` `Python` `GitHub Actions` | Solo |
 | [**AI Hackathon Kit**](https://github.com/Choi-Jung-Hyeon/2026F_Hynix) | Work kit for the SK hynix AI Hackathon preliminary — Codex CLI rules, skills, and a stdlib-only data summarizer | `Python` `Shell` | Solo |
 | **Sony DSC-T2 RE** (private) | Static analysis of a 2007 Sony Cyber-shot's internal memory — photo-DB binary format, Kinoma XS bytecode, and a USB worm found on it | `Reverse Engineering` `Static Analysis` | Solo |
 | [**AI Image Detection**](https://github.com/Choi-Jung-Hyeon/2025S_IACP) | Training-free detection w/ LG AI Research — no retraining cost | `Python` `PyTorch` | Team Lead |
 | [**Hyscape Automation**](https://github.com/Choi-Jung-Hyeon/2025F_HYSCAPE) | Air-gapped NAS + LLM data-automation pipeline | `Python` `AWS` | Intern · BE/Infra |
 | [**NodeSpark**](https://github.com/Choi-Jung-Hyeon/2025F_HACKATHON) | LLM-powered dynamic mind-map, infinite-node rendering | `React` `LLM API` | Plan · FE Lead |
 | [**Deepfake Detection**](https://github.com/Choi-Jung-Hyeon/2025F_DFAI) | NFS competition — mixed clean/degraded dataset, preprocessing | `Python` `PyTorch` | Data Lead |
-| [**ProSeed**](https://github.com/skkuding/proseed) | SKKUDING side project for managing side projects & portfolios — built the growth-record API: versioned records, feedback adoption with ticket rewards in one transaction, S3 presigned uploads | `NestJS` `Prisma` `PostgreSQL` | SKKUDING · Backend |
-| [**PackCheck**](https://github.com/Choi-Jung-Hyeon/2026S_Sapiens) · [demo](https://choi-jung-hyeon.github.io/2026S_Sapiens/) | Travel packing checklist web app | `Vanilla JS` | Coursework |
+| [**PackCheck**](https://github.com/Choi-Jung-Hyeon/2026S_Sapiens) · [live](https://choi-jung-hyeon.github.io/2026S_Sapiens/) | Travel packing checklist web app | `Vanilla JS` | Coursework |
 | [**AI Agent**](https://github.com/Choi-Jung-Hyeon/2026W_AGENT) | LangChain notice-recommender chatbot | `Python` `LangChain` | Coursework |
 
 </details>
