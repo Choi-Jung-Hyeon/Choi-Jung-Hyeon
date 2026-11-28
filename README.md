@@ -51,7 +51,7 @@ CSE at **SKKU** & **full-cycle developer** — backend is my main position, and 
 | [**Hyscape Automation**](https://github.com/Choi-Jung-Hyeon/2025F_HYSCAPE) | Air-gapped NAS + LLM data-automation pipeline | `Python` `AWS` | Intern · BE/Infra |
 | [**NodeSpark**](https://github.com/Choi-Jung-Hyeon/2025F_HACKATHON) | LLM-powered dynamic mind-map, infinite-node rendering | `React` `LLM API` | Plan · FE Lead |
 | [**Deepfake Detection**](https://github.com/Choi-Jung-Hyeon/2025F_DFAI) | NFS competition — mixed clean/degraded dataset, preprocessing | `Python` `PyTorch` | Data Lead |
-| [**ProSeed**](https://github.com/skkuding/proseed) | Side-project & portfolio management web app | `TypeScript` | Backend |
+| [**ProSeed**](https://github.com/skkuding/proseed) | SKKUDING side project for managing side projects & portfolios — built the growth-record API: versioned records, feedback adoption with ticket rewards in one transaction, S3 presigned uploads | `NestJS` `Prisma` `PostgreSQL` | SKKUDING · Backend |
 | [**PackCheck**](https://github.com/Choi-Jung-Hyeon/2026S_Sapiens) · [demo](https://choi-jung-hyeon.github.io/2026S_Sapiens/) | Travel packing checklist web app | `Vanilla JS` | Coursework |
 | [**AI Agent**](https://github.com/Choi-Jung-Hyeon/2026W_AGENT) | LangChain notice-recommender chatbot | `Python` `LangChain` | Coursework |
 
